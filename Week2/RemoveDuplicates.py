@@ -1,5 +1,7 @@
 
 number_list = []
+
+
 def remove_duplicates(integer_list):
     final_list = []
     for x in integer_list:
@@ -15,6 +17,7 @@ def numbers_list():
         elements = int(input())
         number_list.append(elements)
     print("Original list is ", number_list)
+
 
 numbers_list()
 print("List after removing duplicates are ", remove_duplicates(number_list))

@@ -2,6 +2,7 @@
 dictionary1 = {}
 dictionary2 = {}
 
+
 def dict_creator(dict_value, n):
     n = int(input(f"Enter the no. of elements you want in dictionary {n}: "))
     for i in range(n):

@@ -2,6 +2,7 @@
 
 input_stack = []
 
+
 def stack_push():
     n = int(input("Enter number of elements to push into the stack "))
     print("Enter elements of stack: ")

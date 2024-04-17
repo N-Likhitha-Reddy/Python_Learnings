@@ -1,6 +1,7 @@
 
 input_queue = []
 
+
 def enqueue():
     n = int(input("Enter number of elements to add into the queue "))
     print("Enter elements of queue: ")
@@ -17,6 +18,7 @@ def dequeue():
         input_queue.pop(0)
     print("Queue after popping elements is ")
     print(input_queue)
+
 
 def is_queue_empty(input_queue):
     return len(input_queue) == 0
