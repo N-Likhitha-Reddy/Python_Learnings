@@ -1,4 +1,5 @@
-#Implement a Python function that takes a date string in a specific format (e.g., "YYYY-MM-DD") as input and returns the corresponding day of the week (e.g., "Monday"). Use the datetime module for date parsing and manipulation.
+#Implement a Python function that takes a date string in a specific format (e.g., "YYYY-MM-DD") as input and returns the corresponding day of the week (e.g., "Monday").
+# Use the datetime module for date parsing and manipulation.
 
 import datetime
 

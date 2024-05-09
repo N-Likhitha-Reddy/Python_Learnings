@@ -1,5 +1,6 @@
 
-#Write a Python script that generates a random password of a specified length, consisting of uppercase letters, lowercase letters, and digits. Utilize the random module for this task.
+#Write a Python script that generates a random password of a specified length, consisting of uppercase letters, lowercase letters, and digits.
+# Utilize the random module for this task.
 
 import string
 import random
